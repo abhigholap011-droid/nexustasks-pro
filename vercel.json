@@ -4,7 +4,6 @@
   "buildCommand": "next build",
   "installCommand": "npm install",
   "outputDirectory": ".next",
-  "ignoreCommand": "exit 0",
   "headers": [
     {
       "source": "/(.*)",
